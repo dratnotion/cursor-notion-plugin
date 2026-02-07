@@ -71,10 +71,6 @@ In Cursor, add this plugin from the marketplace or install directly from GitHub:
 makenotion/cursor-notion-plugin
 ```
 
-### 2. Restart Cursor
-
-This ensures the MCP server starts correctly.
-
 ---
 
 ## Authentication
