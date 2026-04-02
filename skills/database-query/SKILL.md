@@ -1,6 +1,6 @@
 ---
 name: database-query
-description: Query a Notion database by name or ID and return structured, readable results with optional filters and sorting.
+description: Query, search, or retrieve data from a Notion database (table) by name or ID. Returns structured, readable results with optional filters and sorting. Use when the user wants to find, look up, or list records in a Notion database, search Notion tables, or retrieve Notion entries.
 ---
 
 # Query Notion Database
