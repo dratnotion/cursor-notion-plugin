@@ -1,11 +1,17 @@
 {
   "name": "notion-workspace",
   "version": "0.1.0",
-  "description": "Notion Skills + Notion MCP server packaged as a Cursor plugin.",
+  "description": "USER LEVEL: You search, create, and update Notion pages from chat—meeting notes, specs, and tasks stay current without context switching. PROJECT LEVEL: Specs become implementation plans and tasks inside Notion, so planning and execution share one source of truth. Notion MCP bundled with skills—search the workspace, capture docs and decisions, query databases, and turn specs into tasks without leaving Cursor. BEST SUITED FOR: • Teams using Notion as their knowledge base and task tracker • Projects that derive implementation plans from Notion specs • Workflows where meeting notes and decisions need structured capture",
   "author": {
     "name": "Notion Labs",
     "email": "support@notion.so"
   },
   "logo": "assets/logo.png",
-  "keywords": ["notion", "productivity", "documentation", "tasks", "mcp"]
+  "keywords": [
+    "notion",
+    "productivity",
+    "documentation",
+    "tasks",
+    "mcp"
+  ]
 }
